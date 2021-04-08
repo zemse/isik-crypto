@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "secure_random",
+    "simple_encryption",
+]
